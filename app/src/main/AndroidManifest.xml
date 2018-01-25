@@ -18,6 +18,8 @@
         </activity>
         <activity android:name=".layouts.ActividadLinearLayoutVertical">
         </activity>
+        <activity android:name=".layouts.ActividadLinearLayoutHorizontal">
+        </activity>
     </application>
 
 </manifest>
